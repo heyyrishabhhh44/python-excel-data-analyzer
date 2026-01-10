@@ -26,3 +26,9 @@ This project is focused on analyzing Excel or CSV data using Python to generate 
 
 
 
+\## Notes
+
+This project is being developed incrementally to improve data analysis capabilities.
+
+
+
