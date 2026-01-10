@@ -1,6 +1,11 @@
 import csv
 
+# Store all scores for analysis
 scores = []
+
+# Read CSV file row by row
+# Convert score values to integers
+# Append them for calculation
 
 # Open and read a CSV file
 with open('data.csv', 'r') as file:
