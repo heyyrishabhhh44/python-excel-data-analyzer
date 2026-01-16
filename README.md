@@ -32,3 +32,25 @@ This project is being developed incrementally to improve data analysis capabilit
 
 
 
+\## Additional Features
+
+\- CSV file reading and filtering
+
+\- Data summarization and reporting
+
+\- Beginner to intermediate Python practice
+
+\- Business-style data processing logic
+
+
+
+\## Tools Used
+
+\- Python
+
+\- CSV Module
+
+\- GitHub Version Control
+
+
+
